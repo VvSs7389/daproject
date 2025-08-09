@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# temp / log
+*.log
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+
+# данные (если данные приватные, игнорируем папку data/)
+data/
+*.sqlite
+.env
+
+
